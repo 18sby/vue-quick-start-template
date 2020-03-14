@@ -10,15 +10,6 @@ module.exports = {
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    proxyTable: {
-      '/api': {
-        target: 'https://parentrest-test.qdspub.cn',
-        changeOrigin: true,
-        pathRewrite: {
-          ' ^/api ': '/api'
-        },
-      }
-    },
 
     // Various Dev Server settings
     host: 'localhost', // can be overwritten by process.env.HOST
