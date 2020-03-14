@@ -1,0 +1,112 @@
+.border-box {
+  box-sizing: border-box;
+}
+
+.flx {
+  display: flex;
+}
+
+.f-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.f-i-c {
+  display: flex;
+  align-items: center;
+}
+
+.f-j-c {
+  display: flex;
+  justify-content: center;
+}
+
+.f-col-c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.f-col-i-c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.f-row-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.f-row-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.f-row-end-c {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.f-row-between-c {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.f-row-around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.f-row-end-c {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.f-i-end-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.f-col-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.f-col-between-c {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.f-col-between-r {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.f-col-around {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.f-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.f-col-end {
+  display: flex;
+  align-items: flex-end;
+}

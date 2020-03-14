@@ -1,0 +1,2 @@
+webpackJsonp([21],{Uf7t:function(t,e){},oPWg:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"blank-container f-c"},[this._v("\n  欢迎来到青豆说\n")])},staticRenderFns:[]};var c=n("VU/8")({},a,!1,function(t){n("Uf7t")},"data-v-ec138a96",null);e.default=c.exports}});
+//# sourceMappingURL=21.71a830e7caa756931e4e.js.map
