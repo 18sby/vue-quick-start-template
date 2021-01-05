@@ -15,7 +15,7 @@
     "build-debug": "node build/build.js --mode development"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lowdb": "^1.0.0",
     "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
